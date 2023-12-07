@@ -19,7 +19,7 @@ This application was created to serve as a reusable advent calendar for students
 * [Day Six - HTML, CSS & JS Refactoring](https://codepen.io/hannahhch/pen/QWEPeKb)
 * [Day Seven - HTML & CSS](https://codepen.io/Kalikoze/pen/abXVrpK)
 * [Day Eight - JavaScript Object](https://repl.it/@HannahHudson1/Advent8)
-* [Day Nine - Work on Mythicals](https://gist.github.com/Kalikoze/5c51aae50247fe03de0edc591159b737)
+* [Day Nine - Work on JS Foundations](https://gist.github.com/Kalikoze/5c51aae50247fe03de0edc591159b737)
 * [Day Ten - HTML, CSS and JS Dom Manipulation](https://github.com/turingschool-examples/winter-mad-libs)
 
 ### M2
