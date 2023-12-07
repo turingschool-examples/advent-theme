@@ -27,6 +27,10 @@ const modThreeData = {
       emoji: "🍦"
     },
     {
+      link: "https://turingschool.notion.site/Advent-Theme-Rest-Day-Notes-63c185f90901476b80ecc9c73045bb2b",
+      emoji: "😌"
+    },
+    {
       link: "https://github.com/turingschool-examples/math4you-fe",
       emoji: "🧮"
     },
@@ -34,6 +38,10 @@ const modThreeData = {
       link: "https://gist.github.com/kaylagordon/a5477013405461e1820dfd4efcd09687",
       emoji: "🧸"
     },
+    {
+      link: "https://replit.com/@frontend-instructors/spicy-soup#index.js",
+      emoji: "🍜"
+    }
   ]
 
 };
